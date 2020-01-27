@@ -11,6 +11,7 @@ function selectionSort(arr){
       }
     }
     return console.log(arr)
+    
   }
   
   selectionSort([2,3,1,4,20,5,7,1,19]) 
